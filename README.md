@@ -15,6 +15,6 @@ O trabalho deve ser entregue até as  **23:59 do dia 26/10 (sexta-feira)**. A en
 ## Grupo
 O trabalho pode ser feito em grupos de até 3 pessoas. Preencha abaixo o nome dos integrantes do grupo:
 
-1.  Integrante A - matrícula
+1.  Luiz Henrique Saydt - 1-1714369
 2.  Integrante B - matrícula
 3.  Integrante C - matrícula
